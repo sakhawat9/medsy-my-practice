@@ -3,7 +3,7 @@ const Footer = () => {
         <div className="flex items-center justify-center w-full px-4 bg-white shadow-footer py-30px lg:px-35px lg:justify-between">
             <p className="text-gray-900">
                 Copyright © 2021 
-                <a className="font-semibold transition-colors duration-200 ease-in-out hover:text-red-700" href="https://github.com/SakhawatHossain55">Sakhawat Hossain.</a>
+                <a className="font-semibold transition-colors duration-200 ease-in-out hover:text-red-700" href="https://github.com/SakhawatHossain55">Sakhawat Hossain. </a>
                 All rights reserved
             </p>
             <div className="items-center hidden lg:flex">
@@ -13,14 +13,14 @@ const Footer = () => {
                         <path data-name="Path 1079" d="M77.227,64H64.773a.773.773,0,0,0-.773.773V77.227a.773.773,0,0,0,.773.773H71V72.458H69.327V70.417H71V68.907a2.66,2.66,0,0,1,2.869-2.793c.773,0,1.6.058,1.8.084v1.889H74.38c-.879,0-1.046.416-1.046,1.028v1.3h2.093l-.273,2.042H73.333V78h3.894A.773.773,0,0,0,78,77.227V64.773A.773.773,0,0,0,77.227,64Z" transform="translate(-63.5 -63.5)" fill="currentColor" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"></path>
                     </svg>
                 </a>
-                <a href="/" className="social twitter" target="_blank">
+                <a href="#" className="social twitter" target="_blank">
                     <span className="sr-only">twitter</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="21px" height="16px" viewBox="0 0 20.64 15.339">
                         <path data-name="Path 1080" d="M37.3,65.659a7.136,7.136,0,0,1-2.027.558,3.542,3.542,0,0,0,1.553-1.954,7.014,7.014,0,0,1-2.242.857,3.529,3.529,0,0,0-6.107,2.414,3.456,3.456,0,0,0,.091.806A10,10,0,0,1,21.3,64.645a3.537,3.537,0,0,0,1.1,4.718,3.448,3.448,0,0,1-1.6-.441v.044a3.533,3.533,0,0,0,2.833,3.464,3.553,3.553,0,0,1-.93.124,3.33,3.33,0,0,1-.664-.066,3.535,3.535,0,0,0,3.3,2.454,7.077,7.077,0,0,1-4.386,1.513A7.153,7.153,0,0,1,20.1,76.4,9.866,9.866,0,0,0,25.5,78,9.983,9.983,0,0,0,35.555,67.945c0-.153,0-.306-.011-.456A7.185,7.185,0,0,0,37.3,65.659Z" transform="translate(-18.034 -63.161)" fill="currentColor" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1">
                         </path>
                     </svg>
                 </a>
-                <a href="/https://github.com/SakhawatHossain55" className="social youtube" target="_blank">
+                <a href="https://github.com/SakhawatHossain55" className="social youtube" target="_blank">
                     <span className="sr-only">youtube</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="19px" height="14px" viewBox="0 0 18.664 14">
                         <path data-name="logo-youtube (1)" d="M18.538,67.091a2.834,2.834,0,0,0-2.7-2.96C13.82,64.036,11.76,64,9.655,64H9c-2.1,0-4.163.036-6.183.131A2.84,2.84,0,0,0,.122,67.1c-.091,1.3-.13,2.6-.128,3.893s.038,2.6.124,3.9a2.844,2.844,0,0,0,2.694,2.971c2.122.1,4.3.142,6.511.139s4.387-.039,6.511-.139a2.844,2.844,0,0,0,2.7-2.971c.087-1.3.128-2.6.124-3.9S18.625,68.392,18.538,67.091Zm-11,7.477V67.4l5.286,3.58Z" transform="translate(0.006 -64)" fill="currentColor"></path>
