@@ -31,8 +31,8 @@ a {
   text-decoration: inherit;
 }
 
-.overlay {
-    background-color: rgba(0,0,0,.35);
+/* .overlay {
+  background-color: rgba(0, 0, 0, 0.35);
   z-index: 21;
   width: 100%;
   height: 100%;
@@ -40,7 +40,7 @@ a {
   position: fixed;
   top: 0;
   left: 0;
-}
+} */
 
 .drawer-cart.open,
 .dower-menu.open {
@@ -60,7 +60,7 @@ a {
   display: flex;
   flex-direction: column;
   --tw-bg-opacity: 1;
-  background-color: rgba(255,255,255,var(--tw-bg-opacity));
+  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
   position: fixed;
 }
 
@@ -93,7 +93,6 @@ a {
 .absolute,
 .sr-only {
   position: absolute;
-  
 }
 
 .sr-only {
@@ -108,19 +107,187 @@ a {
 }
 
 .menu-scrollbar {
-    max-height: calc(100vh - 138px);
+  max-height: calc(100vh - 138px);
 }
 
 .os-size-auto-observer.observed {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .os-size-auto-observer {
-    padding: inherit;
-    border: inherit solid transparent;
+  padding: inherit;
+  border: inherit solid transparent;
+}
+
+.os-resize-observer-host.observed {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.os-resize-observer-host {
+  padding: inherit;
+  border: inherit solid transparent;
+}
+
+.os-resize-observer,
+.os-resize-observer-host {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.os-resize-observer {
+  animation-duration: 1ms;
+  animation-name: os-resize-observer-dummy-animation;
+}
+
+.os-size-auto-observer > .os-resize-observer {
+  width: 1000%;
+  height: 1000%;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+.os-content-glue {
+  box-sizing: inherit;
+  max-height: 100%;
+  max-width: 100%;
+  pointer-events: none;
+}
+
+.os-host-overflow > .os-padding,
+.os-viewport {
+  overflow: hidden;
+}
+
+.os-padding {
+  box-sizing: inherit;
+  direction: inherit;
+  position: absolute;
+  overflow: visible;
+  padding: 0;
+  margin: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: auto !important;
+  height: auto !important;
+  z-index: 0;
+}
+
+.os-viewport {
+  direction: inherit !important;
+  box-sizing: inherit !important;
+  resize: none !important;
+  outline: none !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.os-content {
+  direction: inherit;
+  box-sizing: border-box !important;
+  position: relative;
+  display: block;
+  visibility: visible;
+}
+
+.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden
+  > .os-scrollbar-vertical {
+  top: 0;
+  bottom: 0;
+}
+
+.os-theme-thin > .os-scrollbar-vertical {
+  width: 14px;
+  padding: 6px 0;
+}
+
+.os-host-transition > .os-scrollbar,
+.os-host-transition > .os-scrollbar-corner {
+  transition: opacity 0.3s, visibility 0.3s, top 0.3s, right 0.3s, bottom 0.3s,
+    left 0.3s;
+}
+
+.os-scrollbar-vertical {
+  right: 0;
+}
+
+.so-scrollbar {
+  pointer-events: none;
+}
+
+.so-scrollbar,
+.os-scrollbar-corner {
+  position: absolute;
+  opacity: 1;
+  z-index: 1;
+}
+
+.os-theme-thin > .os-scrollbar > .os-scrollbar-track {
+  background: transparent;
+}
+
+.os-scrollbar-handle-off,
+.os-scrollbar-track-off {
+  pointer-events: none;
+}
+
+.os-scrollbar-handle,
+.os-scrollbar-track {
+  pointer-events: auto;
+  height: 100%;
+  width: 100%;
+}
+
+.os-scrollbar-track {
+  position: relative;
+  padding: 0 !important;
+  border: none !important;
+}
+
+.os-theme-thin
+  > .os-scrollbar-vertical
+  > .os-scrollbar-track
+  > .os-scrollbar-handle {
+  width: 100%;
+  min-height: 15px;
+}
+
+.os-scrollbar.os-scrollbar-unusable .os-scrollbar-handle {
+  opacity: 0 !important;
+}
+
+.os-scrollbar.os-scrollbar-unusable,
+.os-scrollbar.os-scrollbar-unusable * {
+  pointer-events: none !important;
+}
+
+.os-scrollbar-handle {
+  position: absolute;
+}
+
+.social {
+  color: #999;
+  margin-right: 30px;
+  transition: all 0.2s ease-in-out;
 }
 
 @media (min-width: 1024px) {
@@ -141,11 +308,11 @@ a {
   }
   .lg\:pr-40px {
     padding-right: 40px;
-}
+  }
 
-.lg\:hidden {
+  .lg\:hidden {
     display: none;
-}
+  }
   .lg\:shadow-header {
     --tw-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
     box-shadow: var(--tw-ring-offset-shadow, 0 0 transparent),
