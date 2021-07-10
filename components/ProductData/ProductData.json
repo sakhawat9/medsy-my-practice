@@ -6,9 +6,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__1.jpg"
     },
     {
         "id": "product_02",
@@ -17,9 +17,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_03",
@@ -28,9 +28,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_04",
@@ -39,9 +39,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__4.jpg"
     },
     {
         "id": "product_05",
@@ -50,9 +50,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__1.jpg"
     },
     {
         "id": "product_07",
@@ -61,9 +61,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_08",
@@ -72,9 +72,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_09",
@@ -83,9 +83,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__4jpg"
     },
     {
         "id": "product_10",
@@ -94,9 +94,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__1.jpg"
     },
     {
         "id": "product_11",
@@ -105,9 +105,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_12",
@@ -116,9 +116,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_13",
@@ -127,9 +127,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__4.jpg"
     },
     {
         "id": "product_14",
@@ -138,9 +138,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__1.jpg"
     },
     {
         "id": "product_15",
@@ -149,9 +149,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_16",
@@ -160,9 +160,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_17",
@@ -171,9 +171,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__4.jpg"
     },
     {
         "id": "product_18",
@@ -182,9 +182,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_19",
@@ -193,9 +193,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_20",
@@ -204,9 +204,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__4.jpg"
     },
     {
         "id": "product_21",
@@ -215,9 +215,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__1.jpg"
     },
     {
         "id": "product_22",
@@ -226,9 +226,9 @@
         "category": "Tablet",
         "pieces": "90 piece",
         "dosages": "as Per Doctor Advice",
-        "active-substance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
+        "activeSubstance": "Anti-Caking Agent (Sorbitol), Gum Acacia, Resistant Maltodextrin",
         "manufacture": "Trividia",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/fibre_sy4q5v.jpg"
+        "image": "/images/product__2.jpg"
     },
     {
         "id": "product_23",
@@ -237,9 +237,9 @@
         "category": "Spray",
         "pieces": "1 piece",
         "dosages": "Recommended To Use Just Before Bedtime.",
-        "active-substance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
+        "activeSubstance": "Aqua (Water), Alcohol Denat., PEG-40 Hydrogenated Castor Oil,",
         "manufacture": "My Mood",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/imlike_xoanra.jpg"
+        "image": "/images/product__3.jpg"
     },
     {
         "id": "product_24",
@@ -248,9 +248,9 @@
         "category": "Capsule",
         "pieces": "120 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/tone_capsules_wpu54w.jpg"
+        "image": "/images/product__4.jpg"
     },
     {
         "id": "product_25",
@@ -259,8 +259,9 @@
         "category": "Mask",
         "pieces": "1 pieces",
         "dosages": "Ake 2 Capsules Each Morning And 2 Capsules Each Afternoon With Water.",
-        "active-substance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
+        "activeSubstance": "Matcha Green Tea, Yerba Mate, Alpha Lipoic Acid",
         "manufacture": "innermost",
-        "image": "https://s3.amazonaws.com/redqteam.com/medsy/products/mask_tu9wb4.jpg"
+        "image": "/images/product__2.jpg"
     }
+    
 ]

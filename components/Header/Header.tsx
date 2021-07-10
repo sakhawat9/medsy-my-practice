@@ -1,13 +1,26 @@
+import { Drawer } from "@material-ui/core";
+import React, { useState } from "react";
+import LeftDrawer from "../Drawer/LeftDrawer";
+import RightDrawer from "../RightDrawer/RightDrawer";
+
 const Header = () => {
-
+  const [menuOpen, setMenuOpen] = useState(false)
+  const [cartOpen, setCartOpen] = useState(false)
   return (
-
+      <>
+        <Drawer anchor="left" open={menuOpen} onClose={() => setMenuOpen(false)}>
+            <LeftDrawer />
+        </Drawer>
+        <Drawer anchor="right" open={cartOpen} onClose={() => setCartOpen(false)}>
+            <RightDrawer />
+        </Drawer>
+        {/* <div onClick={() => setMenuOpen(true)}><FontAwesomeIcon icon={faCoffee} /></div> */}
         <div className="fixed z-20 flex items-center w-full text-gray-700 bg-white shadow-mobile body-font h-90px lg:shadow-header pr-20px md:pr-30px lg:pr-40px">
           <button
             aria-label="Menu"
             className="flex flex-col items-center justify-center flex-shrink-0 h-full outline-none menuBtn w-50px focus:outline-none lg:w-90"
           >
-            <span className="menuIcon">
+            <span onClick={() => setMenuOpen(true)} className="menuIcon">
               <span className="bar"></span>
               <span className="bar"></span>
               <span className="bar"></span>
@@ -141,7 +154,7 @@ const Header = () => {
               +1 855-766-5885
             </span>
           </div>
-          <button
+          <button onClick={() => setCartOpen(true)}
             className="relative flex items-center justify-center flex-shrink-0 h-auto focus:outline-none"
             aria-label="cart-button"
           >
@@ -171,6 +184,7 @@ const Header = () => {
             </span>
           </button>
         </div>
+      </>
   );
 };
 
